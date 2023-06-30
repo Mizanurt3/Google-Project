@@ -148,7 +148,7 @@ section header{
     margin-right: 20px;
 }
 .row ul {
-    display: block;
+    display: flex;
 }
 .footer{
     padding-right: 30px;
